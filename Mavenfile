@@ -1,1 +1,1 @@
-# Maven file script
+# Maven file can push to GitHub repository
